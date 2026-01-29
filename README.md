@@ -18,7 +18,7 @@ Key features:
 - Fully **serverless architecture** using AWS Lambda and IAM roles.
 
 ---
-
+![jenkins](images/admin.png)
 ## 🛠️ Tech Stack & Services
 
 | Service        | Purpose                                      |
