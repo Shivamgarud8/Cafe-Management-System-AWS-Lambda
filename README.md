@@ -206,8 +206,8 @@ You can set up a **Lambda destination** to automatically log successful or faile
 
 👨‍💻 **Developed By:**  
 **Shivam Garud**  
-🧠 *DevOps & Cloud Enthusiast*  
-💼 *💼 DevOps Engineer | CI/CD | Docker | Kubernetes | Terraform | Ansible | AWS | Linux | Cloud Automation | Infrastructure as Code!*  
+🧠 *DevOps & Cloud Engineer*  
+💼 *DevOps Engineer | CI/CD | Docker | Kubernetes | Terraform | Ansible | AWS | Linux | Cloud Automation | Infrastructure as Code!*  
 🌐 [GitHub Profile](https://github.com/Shivamgarud8)
 🌐 [Medium blog](https://medium.com/@shivam.garud2011)
 🌐 [linkedin](www.linkedin.com/in/shivam-garud)
